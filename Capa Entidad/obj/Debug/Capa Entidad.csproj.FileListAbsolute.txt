@@ -1,0 +1,6 @@
+C:\Users\PRO\source\repos\MyRequest\Capa Entidad\bin\Debug\Capa Entidad.dll
+C:\Users\PRO\source\repos\MyRequest\Capa Entidad\bin\Debug\Capa Entidad.pdb
+C:\Users\PRO\source\repos\MyRequest\Capa Entidad\obj\Debug\Capa Entidad.csproj.AssemblyReference.cache
+C:\Users\PRO\source\repos\MyRequest\Capa Entidad\obj\Debug\Capa Entidad.csproj.CoreCompileInputs.cache
+C:\Users\PRO\source\repos\MyRequest\Capa Entidad\obj\Debug\Capa Entidad.dll
+C:\Users\PRO\source\repos\MyRequest\Capa Entidad\obj\Debug\Capa Entidad.pdb

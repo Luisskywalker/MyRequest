@@ -1,0 +1,8 @@
+C:\Users\PRO\source\repos\MyRequest\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\PRO\source\repos\MyRequest\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\PRO\source\repos\MyRequest\Capa Datos\bin\Debug\Capa Entidad.dll
+C:\Users\PRO\source\repos\MyRequest\Capa Datos\bin\Debug\Capa Entidad.pdb
+C:\Users\PRO\source\repos\MyRequest\Capa Datos\obj\Debug\Capa Datos.csproj.AssemblyReference.cache
+C:\Users\PRO\source\repos\MyRequest\Capa Datos\obj\Debug\Capa Datos.csproj.CoreCompileInputs.cache
+C:\Users\PRO\source\repos\MyRequest\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\PRO\source\repos\MyRequest\Capa Datos\obj\Debug\Capa Datos.pdb

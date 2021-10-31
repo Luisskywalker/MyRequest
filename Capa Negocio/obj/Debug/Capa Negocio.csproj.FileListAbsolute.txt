@@ -1,0 +1,11 @@
+C:\Users\PRO\source\repos\MyRequest\Capa Negocio\bin\Debug\Capa Negocio.dll
+C:\Users\PRO\source\repos\MyRequest\Capa Negocio\bin\Debug\Capa Negocio.pdb
+C:\Users\PRO\source\repos\MyRequest\Capa Negocio\bin\Debug\Capa Datos.dll
+C:\Users\PRO\source\repos\MyRequest\Capa Negocio\bin\Debug\Capa Entidad.dll
+C:\Users\PRO\source\repos\MyRequest\Capa Negocio\bin\Debug\Capa Datos.pdb
+C:\Users\PRO\source\repos\MyRequest\Capa Negocio\bin\Debug\Capa Entidad.pdb
+C:\Users\PRO\source\repos\MyRequest\Capa Negocio\obj\Debug\Capa Negocio.csproj.AssemblyReference.cache
+C:\Users\PRO\source\repos\MyRequest\Capa Negocio\obj\Debug\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PRO\source\repos\MyRequest\Capa Negocio\obj\Debug\Capa Negocio.dll
+C:\Users\PRO\source\repos\MyRequest\Capa Negocio\obj\Debug\Capa Negocio.pdb
+C:\Users\PRO\source\repos\MyRequest\Capa Negocio\obj\Debug\Capa Negocio.csproj.CopyComplete

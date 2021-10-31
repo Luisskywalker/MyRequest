@@ -1,0 +1,118 @@
+﻿.cover {
+    height: 250px;
+    background-image: url('Imgs/rsz_banner.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0,0,0,.5);
+    background-blend-mode: normal;
+    color: lightslategrey;
+    font-family: 'Oswald', sans-serif;
+}
+
+.coverII {
+    height: 400px;
+    background-image: url(/imgs/rsz_1acercadebanner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0,0,0,.5);
+    background-blend-mode: darken;
+    color: white;
+}
+
+.card {
+    box-shadow: 10px 10px 2px 1px slategray;
+    border-radius: 5%;
+}
+
+    .card:hover {
+        box-shadow: 15px 15px 2px 1px silver;
+    }
+
+.card-title {
+    min-height: 3rem;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.card-text {
+    min-height: 10rem;
+    font-family: 'Oswald', sans-serif;
+}
+
+    .card-text:hover {
+        color: violet;
+    }
+
+.cover-small {
+    height: 200px;
+    background-blend-mode: normal;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.stripe-container {
+    display: flex;
+}
+
+    .stripe-container .card {
+        width: 300px;
+        flex-shrink: 0;
+        margin-right: 1rem;
+    }
+
+.product-stripe {
+    overflow-x: scroll;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.image-container {
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    padding: 56.25%;
+    flex-shrink: 0;
+}
+
+.slider1 {
+    overflow-x: hidden;
+    animation: slider 5s infinite;
+}
+
+.slider-container {
+    transform: translateX(0);
+}
+
+.slider {
+    overflow-x: scroll;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+/* _forms.scss:175 */
+.form-group {
+    margin-bottom: auto;
+}
+
+/* _forms.scss:284 */
+.form-group {
+    display: flex;
+    flex: 0 0 auto;
+    flex-flow: row wrap;
+    align-items: center;
+    margin-bottom: 0;
+}
+.font {
+    font-family: 'Rampart One', cursive;
+}
+
+.fonttable {
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.font-tile {
+    font-family: 'Rampart One', cursive;
+    font-size:55px;
+}

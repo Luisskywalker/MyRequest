@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<div id="DivSub">
+    <fieldset class="container mr-5 mb-10">
+        <legend class="font">File upload</legend>
+        @using (Html.BeginForm("Submit", "Main", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+
+            <div class="form-group">
+                <label class="fonttable">File</label>
+                <input type="file" class="form-control fonttable" name="File1" />
+                <span class="fonttable">The File to be Processed</span>
+            </div>
+
+            <input type="submit" class="btn btn-outline-secondary fonttable" value="Upload Image" name="Submit" />
+        }
+    </fieldset>
+
+    @if (ViewBag.Result)
+     {
+
+    <fieldset class="container ml-5 mt-5">
+        <legend class="font">Converted Text:</legend>
+
+        <div class="form-group">
+            <label class="fonttable">Mean confidence</label>
+            <label class="fonttable">@ViewBag.mean</label>
+
+        </div>
+        <div class="form-group">
+            <label class="fonttable">File name:</label><br />
+            <label class="fonttable"><strong> @ViewBag.name </strong></label>
+            <textarea class="form-control fonttable" readonly rows="10">@ViewBag.res</textarea>
+            <button type="button" class="btn btn-outline-secondary" onclick="SaveData()">Save</button>
+            @{ TempData["pagetext"] = ViewBag.res;}
+            @{ TempData["namefile"] = ViewBag.name;}
+        </div>
+    </fieldset>
+
+
+     }
+</div>
+<script src="~/Scripts/Main.js"></script>
